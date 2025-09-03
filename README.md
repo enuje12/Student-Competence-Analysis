@@ -2,6 +2,7 @@
 
 This repository is my submission for **Python Screening Task 3: Evaluating Open Source Models for Student Competence Analysis**.  
 The project uses **Salesforce/CodeT5-small**, an open-source code model, combined with rule-based methods to analyze student Python programs, detect errors, and generate reflective prompts that encourage deeper learning.
+For detailed installation and running instructions, see SETUP.md
 
 ---
 
