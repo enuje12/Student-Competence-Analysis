@@ -1,0 +1,29 @@
+# Setup Instructions
+
+Follow these steps to set up and run the **Student Competence Analysis** project locally.
+
+---
+
+## 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/student-competence-analysis.git
+cd student-competence-analysis
+```
+
+##2. Create a Virtual Environment (Recommended)
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+
+##3. Install Dependencies
+
+All required packages are listed in requirements.txt.
+pip install -r requirements.txt
+
+If you don’t have requirements.txt, install directly:
+pip install transformers torch
+
+##4. Run the Code
+
+Run the Python script with:
+python student_competence_model.py
