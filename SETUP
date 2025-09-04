@@ -11,9 +11,15 @@ cd student-competence-analysis
 ```
 
 ##2. Create a Virtual Environment (Recommended)
+```
 python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
+```
+```
+source venv/bin/activate  # On Linux/Mac
+```
+```
+venv\Scripts\activate  # On Windows
+```
 
 ##3. Install Dependencies
 
