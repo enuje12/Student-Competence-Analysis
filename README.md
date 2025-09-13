@@ -4,11 +4,11 @@ This repository is my submission for **Python Screening Task 3: Evaluating Open 
 The project uses **Salesforce/CodeT5-small**, an open-source code model, combined with rule-based methods to analyze student Python programs, detect errors, and generate reflective prompts that encourage deeper learning.
 For detailed installation and running instructions, see SETUP.md
 
-Author Information
-Name: Anuja Rawat
-College: VIT Bhopal University
-Email: anuja.23bhi10158@vitbhopal.ac.in
-GitHub: https://github.com/enuje12
+Author Information <br>
+Name: Anuja Rawat <br>
+College: VIT Bhopal University <br>
+Email: anuja.23bhi10158@vitbhopal.ac.in <br>
+GitHub: https://github.com/enuje12 <br>
 
 ---
 
